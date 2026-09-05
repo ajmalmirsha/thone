@@ -7,7 +7,8 @@
   "scripts": {
     "start": "node index.js",
     "dev": "node index.js",
-    "seed": "node db/seed.js"
+    "seed": "node db/seed.js",
+    "build": "npm run seed"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
