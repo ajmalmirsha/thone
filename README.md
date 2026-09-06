@@ -1,9 +1,12 @@
 # 🏥 Thone — Hospital & Patient Management System
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thone-avjo.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-teal.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-v18%2B-blue.svg)](https://react.dev/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite3-skyblue.svg)](https://www.sqlite.org/)
+
+🌐 **Live Demo**: [https://thone-avjo.vercel.app/](https://thone-avjo.vercel.app/)
 
 **Thone** is an intelligent, modern hospital management system designed to streamline patient care, medical scan analysis, medication tracking, and clinical workflow management for doctors and nursing staff.
 
