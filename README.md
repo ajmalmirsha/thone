@@ -8,6 +8,20 @@
 
 🌐 **Live Demo**: [https://thone-avjo.vercel.app/](https://thone-avjo.vercel.app/)
 
+---
+
+## 🧩 Problem Statement
+
+> **The Missing Information at Handover**
+>
+> **Medical PoC:** Medicine / Nursing
+>
+> **Problem:** Critical information is often missed when patients move between teams, wards, ICU and OT.
+>
+> **Challenge:** Build a simple system that ensures the right information reaches the right team at the right time.
+
+---
+
 **Thone** is an intelligent, modern hospital management system designed to streamline patient care, medical scan analysis, medication tracking, and clinical workflow management for doctors and nursing staff.
 
 ---
